@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "nehorai": "./src/agent.py:nehorai"
+  },
+  "env": ".env"
+}
